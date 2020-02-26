@@ -12,4 +12,12 @@ Week5: Matplotlib and Seaborn <br />
 
 Week6: Pandas <br />
 
-Week7: Review of Week 2 <br />
+Week7: Orange Software Tutorial <br />
+
+Week8: Orange Programming with Python<br />
+
+Week9: Interactive Visualizations with Python 1<br />
+
+Week10: Interactive Visualizations with Python 2<br />
+
+Week11: Interactive Visualizations with Python 3<br />
